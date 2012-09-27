@@ -15,5 +15,6 @@ public class Netbeans {
      */
     public static void main(String[] args) {
         System.out.println("TESTE DO NETBEANS!");
+        System.out.println("TESTING AGAIN");
     }
 }
