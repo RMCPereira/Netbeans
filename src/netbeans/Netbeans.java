@@ -4,6 +4,8 @@
  */
 package netbeans;
 
+import java.util.Calendar;
+
 /**
  *
  * @author Ricardo
@@ -15,5 +17,6 @@ public class Netbeans {
      */
     public static void main(String[] args) {
         System.out.println("TESTING AGAIN");
+        System.out.println("Hoje é "+Calendar.getInstance().toString());
     }
 }
